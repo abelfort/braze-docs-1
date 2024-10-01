@@ -153,7 +153,7 @@ curl --location --request POST 'https://rest.iad-01.braze.com/users/track' \
             "phone": "+15043277269",
             "string_attribute": "fruit",
             "boolean_attribute_1": true,
-            "integer_attribute": 25,
+            "integer_attribute": 27,
             "array_attribute": [
                 "banana",
                 "apple"
